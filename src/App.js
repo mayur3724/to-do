@@ -1,12 +1,11 @@
 import React from "react";
-import TodoApp from "./Components/todoApp";
-
+import todoApp from "./Components/todoApp";
 
 
  function App() {
   return(
     <div className="App">
-      <TodoApp/>
+      <todoApp/>
     </div>
   )
 }
